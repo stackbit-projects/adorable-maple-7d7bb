@@ -86,7 +86,7 @@ sections:
     actions: []
     align: right
     image_alt: lorem-ipsum
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: blue
