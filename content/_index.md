@@ -81,7 +81,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: Prova
     subtitle: lorem-ipsum
     actions: []
     align: left
