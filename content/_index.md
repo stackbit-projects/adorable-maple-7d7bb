@@ -93,6 +93,7 @@ sections:
       background_image_opacity: 0
       background_image_size: contain
       background_image_repeat: repeat
+      background_image: images/diagonal-lines.svg
     type: hero_section
   - title: lorem-ipsum
     team: []
